@@ -4,3 +4,6 @@ Emojis
 Type option
 colours
 vibrant
+
+Dark mode
+Nature pics
