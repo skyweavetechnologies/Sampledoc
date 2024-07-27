@@ -7,3 +7,6 @@ vibrant
 
 Dark mode
 Nature pics
+Video calls
+Audio calls
+text message
