@@ -10,3 +10,7 @@ Nature pics
 Video calls
 Audio calls
 text message
+
+Payment Option
+Send money
+Receive money
